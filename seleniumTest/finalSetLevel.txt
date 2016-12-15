@@ -1,0 +1,3 @@
+easy 2
+difficult 1 1 1
+medium 2 1
